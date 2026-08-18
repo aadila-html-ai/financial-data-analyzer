@@ -4,7 +4,7 @@ setup(
     name="financial-data-analyzer",
     version="1.0.0",
     description="A CLI toolkit for analyzing historical price data: returns, volatility, drawdown, Sharpe ratio, and more.",
-    author="Your Name",
+    author="Aadila Noori",
     packages=find_packages(exclude=["tests"]),
     install_requires=[
         "pandas>=2.0.0",
